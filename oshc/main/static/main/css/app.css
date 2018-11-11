@@ -233,6 +233,9 @@ footer .container {
 .social a {
   color: #fff;
 }
+.social li:hover{
+  color: #BDBDBD;
+}
 
 
 /*Media queries*/
